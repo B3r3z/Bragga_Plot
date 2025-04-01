@@ -1,0 +1,34 @@
+# Środowiska wirtualne
+myenv/
+venv/
+env/
+.env/
+.venv/
+
+# Cache Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Pliki dystrybucyjne
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Pliki IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
